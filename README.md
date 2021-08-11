@@ -1,16 +1,8 @@
-ppppppp    nnnfnfnfnfnnfnfnffnxxxxxxxxxxxxxxx
-x
-x
-x
-x
-x
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+555555555555555555
+4
 
-x
-xbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-x
-x
-x
-x
-x
-x
-x
+
+4
+
+4
